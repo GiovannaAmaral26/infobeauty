@@ -128,7 +128,7 @@ footer{
     }
 }
 
-@media {
+@media screen and (min-width:380px) {
     .container{
         text-align: center;
         height: 100%;
@@ -141,6 +141,9 @@ footer{
     footer{
         height: 100%;
     }
-  
+    button{
+        display: inline-block;
+        height: 40px;
+    }
 
 }
