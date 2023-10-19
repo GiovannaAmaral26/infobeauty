@@ -107,7 +107,7 @@ button{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     border-color: #fbdfbb ;
-    white-space: normal;
+    display: inline-block;
     
 }
 a{
