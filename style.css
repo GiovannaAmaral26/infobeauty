@@ -140,7 +140,5 @@ footer{
     footer{
         height: 100%;
     }
-    button{
-        display: flex;
-    }
+
 }
