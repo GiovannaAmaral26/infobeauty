@@ -107,6 +107,7 @@ button{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     border-color: #fbdfbb ;
+    white-space: normal;
     
 }
 a{
@@ -127,7 +128,7 @@ footer{
     }
 }
 
-@media screen {
+@media {
     .container{
         text-align: center;
         height: 100%;
@@ -140,5 +141,6 @@ footer{
     footer{
         height: 100%;
     }
+  
 
 }
