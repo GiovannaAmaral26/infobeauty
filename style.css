@@ -2,7 +2,11 @@ body{
     margin: 0;
 }
 
-
+main{
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+}
 
 
 #limpeza{
@@ -128,23 +132,3 @@ footer{
     }
 }
 
-@media screen  {
-    .container{
-        text-align: center;
-        height: 100%;
-
-    }
-    #maquiagem{
-        height: 100%;
-     
-    }
-    footer{
-        height: 100%;
-    }
-    button{
-        display: inline-block;
-        width: 100px;
-
-    }
-
-}
