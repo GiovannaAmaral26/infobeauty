@@ -59,3 +59,17 @@ section:nth-of-type(2){
 section:nth-of-type(3){
     background-image: url("img/lapis.jpg");
 }
+p{
+    text-align: justify;
+    height: 100%;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 50px 50px 5px 50px;
+    margin: 0px;
+    line-height: 2;
+    font-weight: bold;
+    color: hwb(0 0% 100% / 0.699);
+    column-count: 2;
+    column-gap: 3rem;
+}
