@@ -95,8 +95,20 @@ p{
 .img{
     margin: 10px 0px 0px 70px;
  }
- footer{
+
+#insta{
+    
+    width: 20px;
+    height: 20px;
+   
+}
+footer{
     background-image: linear-gradient(to right, #eeb6c1, #fbdfbb,#c6e5ea);
     background-size: 100% 100%;
     animation: degrade-animado 7s infinite alternate;
+    text-align: center;
+    height: 50px;
+    width:100%;
+    color: hwb(0 0% 100% / 0.699);
+    padding-top: 15px;
 }
