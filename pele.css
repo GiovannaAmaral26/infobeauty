@@ -107,26 +107,36 @@ p{
       column-count: 1;
     }
 }
-.img{
-   margin: 10px 0px 0px 70px;
+#insta{
+        
+    width: 20px;
+    height: 20px;
+    margin-left: 50%;
+    display: block;
+    margin-top: 5px;
+
+
 }
-footer{
-    background-image: linear-gradient(to right, #eeb6c1, #fbdfbb,#c6e5ea);
-    background-size: 100% 100%;
-    animation: derade-animado 7s infinite alternate;
+
+.img{
+    margin: 10px 0px 0px 70px;
 }
 #insta{
     
     width: 20px;
     height: 20px;
-   
+    margin-left: 50%;
+    display: block;
+    margin-top: 5px;
+
+
 }
 footer{
     background-image: linear-gradient(to right, #eeb6c1, #fbdfbb,#c6e5ea);
     background-size: 100% 100%;
     animation: degrade-animado 7s infinite alternate;
     text-align: center;
-    height: 50px;
+    height: 60px;
     width:100%;
     color: hwb(0 0% 100% / 0.699);
     padding-top: 15px;

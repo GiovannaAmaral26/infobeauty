@@ -80,7 +80,7 @@ footer{
     background-size: 100% 100%;
     animation: degrade-animado 7s infinite alternate;
     text-align: center;
-    height: 50px;
+    height: 60px;
     width:100%;
     color: hwb(0 0% 100% / 0.699);
     padding-top: 15px;
@@ -113,15 +113,28 @@ footer{
     section:nth-of-type(2){
         background-image: url("img/sessaol2.jpg");
     }
+    #insta{
+        
+        width: 20px;
+        height: 20px;
+        margin-left: 50%;
+        display: block;
+        margin-top: 5px;
+
+    
+    }
 
   }
-.img{
-    margin: 10px 0px 0px 70px;
- }
- #insta{
+    .img{
+        margin: 10px 0px 0px 70px;
+    }
+    #insta{
+        
+        width: 20px;
+        height: 20px;
+        margin-left: 50%;
+        display: block;
+        margin-top: 5px;
+
     
-    width: 20px;
-    height: 20px;
-    margin-left: 10px;
-   
-}
+    }
